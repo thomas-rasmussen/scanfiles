@@ -1,0 +1,14 @@
+Package: scanfiles
+Title: Scan Files Using Regular Expressions
+Version: 0.0.0.9000
+Authors@R: 
+    person("Thomas", "Bøjer Rasmussen", , "thomasboejer@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-0120-1712"))
+Description: Scan files using regular expressions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
